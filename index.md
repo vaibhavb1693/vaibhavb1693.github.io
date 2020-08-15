@@ -36,8 +36,8 @@
 
 ### Projects
 
-- [DS and Algos repo](http://example.com/)
-- [Python bueginner projects](http://example.com/)
+- [DS and Algos repo](https://github.com/vaibhavb1693/ds-and-algorithms)
+- [Python beginner projects](https://github.com/vaibhavb1693/python-beginner-projects-solution)
 
 ---
 
