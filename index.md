@@ -11,9 +11,11 @@
      5. Bash scripting : Disk monitoring, Kafka lag monitoring and some deployment scripts
   - SKILLS gained:
       ```
-      JAVA 1.8,  Postgresql, Kafka, Redis, Elastic search, Microservices , 
-      Bash scripting, AWS, Python, dropwizard, Nginx, OOPS and System Design, 
-      REST API design (3rd party integrations), maven, gradle, linux
+      JAVA 1.8,  Postgresql, Kafka, Redis, 
+      Elastic search, Microservices , Nginx,
+      Bash scripting, AWS, Python, dropwizard, 
+      OOPS and System Design, REST API, maven, gradle,
+      design (3rd party integrations), linux
       ```
 
 #### TIAA  (Oct 2016 - July 2019)
@@ -22,7 +24,8 @@
       2. Worked on Botcenter which was like a central application for the various teams to register their bots on. It was built using  Angular 4, Spring Boot,     MongoDB and had microservices architecture.
    - SKILLS gained:
      ```
-     JAVA, Microservices, Spring Boot, spring MVC, Angular 4, MongoDB, Spring data, Spring REST, 
+     JAVA, Microservices, Spring Boot, spring MVC, 
+     Angular 4, MongoDB, Spring data, Spring REST, 
      Python, Google OR tools.
      ```
 
@@ -30,7 +33,9 @@
    - Implemented email parsing functionality, live feed data rendering for markets using websockets, market calculation, spring security tasks under the guidance of team lead for AFMA(Australian Financial Markets Association).
    - SKILLS gained:
      ```
-     Java, Spring(Mvc, Boot, Rest), Websockets, Git , Apache Tomcat , HTML and JQuery, Hibernate and JDBC
+     Java, Spring(Mvc, Boot, Rest), Websockets, 
+     Git , Apache Tomcat , HTML and JQuery, 
+     Hibernate and JDBC
      ```
 ---
 
